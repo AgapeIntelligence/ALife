@@ -1,0 +1,16 @@
+{
+  "name": "smrs-alife",
+  "version": "1.0.0",
+  "description": "SMRS Closed-Loop Emergent ALife Engine with Agape Constraints",
+  "main": "src/index.ts",
+  "scripts": {
+    "dev": "ts-node src/index.ts",
+    "build": "tsc"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@vercel/node": "^3.0.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
+  }
+}
